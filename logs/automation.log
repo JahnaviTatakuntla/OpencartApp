@@ -1,0 +1,24 @@
+2025-11-10 15:12:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-10 15:12:21 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-10 15:12:22 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-10 15:12:22 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-10 15:12:22 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-10 15:12:24 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-10 15:12:24 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-10 15:12:24 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-10 15:12:27 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-10 15:12:29 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-10 15:12:34 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:12:39 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2025-11-10 15:12:39 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:12:43 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2025-11-10 15:12:43 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:12:49 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2025-11-10 15:12:49 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:13:03 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2025-11-10 15:13:03 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:13:08 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2025-11-10 15:13:08 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2025-11-10 15:13:23 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
