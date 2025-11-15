@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
+      <class name="testCases.TC007_ViewWishList">
         <methods>
-          <include name="verify_account_registration"/>
           <include name="tearDown"/>
           <include name="setup"/>
+          <include name="viewWishlistTest"/>
         </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      </class> <!-- testCases.TC007_ViewWishList -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
