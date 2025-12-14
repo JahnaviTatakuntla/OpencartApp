@@ -1,0 +1,131 @@
+2025-11-15 12:25:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:26:05 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 12:26:06 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 12:26:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 12:26:06 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 12:26:09 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-15 12:26:09 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-15 12:26:09 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 12:26:12 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 12:26:14 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 12:26:17 INFO  TC004_SearchTest:16 - **** Starting Search Test - Special Characters ****
+2025-11-15 12:26:17 INFO  TC004_SearchTest:21 - Entering special characters...
+2025-11-15 12:26:17 INFO  TC004_SearchTest:24 - Clicking search...
+2025-11-15 12:26:18 INFO  TC004_SearchTest:27 - Validating 'No product found' message...
+2025-11-15 12:26:18 INFO  TC004_SearchTest:36 - **** Finished Search Test - Special Characters ****
+2025-11-15 12:26:18 INFO  TC004_SearchTest:45 - **** Starting Search Test - Partial Name ****
+2025-11-15 12:26:18 INFO  TC004_SearchTest:50 - Entering partial product keyword: Mac
+2025-11-15 12:26:18 INFO  TC004_SearchTest:53 - Clicking search...
+2025-11-15 12:26:19 INFO  TC004_SearchTest:56 - Validating product results...
+2025-11-15 12:26:19 INFO  TC004_SearchTest:65 - **** Finished Search Test - Partial Name ****
+2025-11-15 12:26:19 INFO  TC004_SearchTest:74 - **** Starting Search Test - Case Insensitivity ****
+2025-11-15 12:26:19 INFO  TC004_SearchTest:79 - Entering keyword in uppercase: MACBOOK
+2025-11-15 12:26:19 INFO  TC004_SearchTest:82 - Clicking search...
+2025-11-15 12:26:19 INFO  TC004_SearchTest:85 - Validating results...
+2025-11-15 12:26:20 INFO  TC004_SearchTest:94 - **** Finished Search Test - Case Insensitivity ****
+2025-11-15 12:31:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:31:34 INFO  TC005_AddToCartTest:15 - ***** Starting TC005_AddToCartTest *****
+2025-11-15 12:31:34 INFO  TC005_AddToCartTest:22 - Searching for product: MacBook
+2025-11-15 12:31:34 INFO  TC005_AddToCartTest:26 - Clicking Search button
+2025-11-15 12:31:35 INFO  TC005_AddToCartTest:30 - Opening product page
+2025-11-15 12:31:35 INFO  TC005_AddToCartTest:34 - Clicking Add to Cart
+2025-11-15 12:31:35 INFO  TC005_AddToCartTest:38 - Validating success message
+2025-11-15 12:31:36 INFO  TC005_AddToCartTest:49 - ***** Finished TC005_AddToCartTest *****
+2025-11-15 12:34:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:34:24 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 12:34:27 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 12:34:30 INFO  TC006_WishListTest:15 - ***** Starting TC006_WishListTest *****
+2025-11-15 12:34:30 INFO  TC006_WishListTest:24 - Searching for MacBook
+2025-11-15 12:34:30 INFO  TC006_WishListTest:31 - Opening product page
+2025-11-15 12:34:31 INFO  TC006_WishListTest:37 - Clicking Add to Wishlist
+2025-11-15 12:34:31 INFO  TC006_WishListTest:43 - Checking if wishlist message displayed
+2025-11-15 12:34:32 INFO  TC006_WishListTest:51 - Wishlist message: You must login or create an account to save MacBook to your wish list!
+×
+2025-11-15 12:34:32 INFO  TC006_WishListTest:67 - ***** Finished TC006_WishListTest *****
+2025-11-15 12:40:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:40:47 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 12:40:50 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 12:40:53 INFO  TC006_WishListTest:15 - ***** Starting TC006_WishListTest *****
+2025-11-15 12:40:53 INFO  TC006_WishListTest:24 - Searching for MacBook
+2025-11-15 12:40:54 INFO  TC006_WishListTest:31 - Opening product page
+2025-11-15 12:40:55 INFO  TC006_WishListTest:37 - Clicking Add to Wishlist
+2025-11-15 12:40:55 INFO  TC006_WishListTest:43 - Checking if wishlist message displayed
+2025-11-15 12:40:55 INFO  TC006_WishListTest:51 - Wishlist message: You must login or create an account to save MacBook to your wish list!
+×
+2025-11-15 12:40:55 INFO  TC006_WishListTest:67 - ***** Finished TC006_WishListTest *****
+2025-11-15 12:41:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:41:38 INFO  TC006_WishListTest:15 - ***** Starting TC006_WishListTest *****
+2025-11-15 12:41:38 INFO  TC006_WishListTest:24 - Searching for MacBook
+2025-11-15 12:41:39 INFO  TC006_WishListTest:31 - Opening product page
+2025-11-15 12:41:40 INFO  TC006_WishListTest:37 - Clicking Add to Wishlist
+2025-11-15 12:41:40 INFO  TC006_WishListTest:43 - Checking if wishlist message displayed
+2025-11-15 12:41:41 INFO  TC006_WishListTest:51 - Wishlist message: You must login or create an account to save MacBook to your wish list!
+×
+2025-11-15 12:41:41 INFO  TC006_WishListTest:67 - ***** Finished TC006_WishListTest *****
+2025-11-15 12:42:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:42:13 INFO  TC006_WishListTest:15 - ***** Starting TC006_WishListTest *****
+2025-11-15 12:42:13 INFO  TC006_WishListTest:24 - Searching for MacBook
+2025-11-15 12:42:14 INFO  TC006_WishListTest:31 - Opening product page
+2025-11-15 12:42:15 INFO  TC006_WishListTest:37 - Clicking Add to Wishlist
+2025-11-15 12:42:15 INFO  TC006_WishListTest:43 - Checking if wishlist message displayed
+2025-11-15 12:42:16 INFO  TC006_WishListTest:51 - Wishlist message: You must login or create an account to save MacBook to your wish list!
+×
+2025-11-15 12:42:16 INFO  TC006_WishListTest:67 - ***** Finished TC006_WishListTest *****
+2025-11-15 12:47:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:47:27 INFO  TC007_ViewWishList:12 - ===== Starting Test: View Wishlist =====
+2025-11-15 12:47:27 INFO  TC007_ViewWishList:18 - Opening the Wishlist page...
+2025-11-15 12:48:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:48:15 INFO  TC007_ViewWishList:12 - ===== Starting Test: View Wishlist =====
+2025-11-15 12:48:15 INFO  TC007_ViewWishList:18 - Opening the Wishlist page...
+2025-11-15 12:49:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:49:04 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 12:49:06 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 12:49:10 INFO  TC007_ViewWishList:12 - ===== Starting Test: View Wishlist =====
+2025-11-15 12:49:10 INFO  TC007_ViewWishList:18 - Opening the Wishlist page...
+2025-11-15 12:51:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:51:31 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 12:51:34 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 12:51:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:52:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:57:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 12:57:35 INFO  TC007_ViewWishList:16 - ===== Starting Test: View Wishlist =====
+2025-11-15 12:57:35 INFO  TC007_ViewWishList:22 - Opening the Wishlist page...
+2025-11-15 13:03:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\new\eclipse-workspace\OpencartApp\master.xml
+
+2025-11-15 13:03:17 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 13:03:20 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-11-15 13:03:22 INFO  TC006_WishListTest:15 - ***** Starting TC006_WishListTest *****
+2025-11-15 13:03:22 INFO  TC006_WishListTest:24 - Searching for MacBook
+2025-11-15 13:03:23 INFO  TC006_WishListTest:31 - Opening product page
+2025-11-15 13:03:24 INFO  TC006_WishListTest:37 - Clicking Add to Wishlist
+2025-11-15 13:03:24 INFO  TC006_WishListTest:43 - Checking if wishlist message displayed
+2025-11-15 13:03:25 INFO  TC006_WishListTest:51 - Wishlist message: You must login or create an account to save MacBook to your wish list!
+×
+2025-11-15 13:03:25 INFO  TC006_WishListTest:67 - ***** Finished TC006_WishListTest *****

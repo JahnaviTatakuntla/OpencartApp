@@ -10,4 +10,3 @@ pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class
-testCases\TC_004_Search.class

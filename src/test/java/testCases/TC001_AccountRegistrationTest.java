@@ -14,6 +14,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 	{
 		logger.info("***** Starting TC001_AccountRegistrationTest  ****");
 		logger.debug("This is a debug log message");
+		
 		try
 		{
 		HomePage hp=new HomePage(driver);
